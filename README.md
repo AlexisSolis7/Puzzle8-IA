@@ -19,7 +19,7 @@ Este projeto é um solucionador interativo e didático para o clássico problema
 ### Instalação
 1. Clone este repositório:
    ```powershell
-   git clone <url-do-seu-repositorio>
+   git clone https://github.com/AlexisSolis7/Puzzle8-IA.git
    cd IA
    ```
 2. Instale o Flask:
@@ -72,10 +72,10 @@ Este projeto é um solucionador interativo e didático para o clássico problema
 Este projeto é para uso educacional. Você pode modificar e compartilhar para fins acadêmicos e em sala de aula.
 
 ## Autor
-- [Alexis Solis]
-- [Laura Soares]
-- [Universidade Federal de Santa Catarina]
-- [Disciplina: Inteligência Artificial]
+- Alexis Solis
+- Laura Soares
+- Universidade Federal de Santa Catarina
+- Disciplina: Inteligência Artificial
 
 ---
 Para dúvidas ou sugestões de melhorias, abra uma issue ou envie um pull request.
